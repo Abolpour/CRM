@@ -1,0 +1,120 @@
+C:\Users\arman\Desktop\CRNFinalProject17\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\arman\Desktop\CRNFinalProject17\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\arman\Desktop\CRNFinalProject17\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\arman\Desktop\CRNFinalProject17\DataAccessLayer\bin\Debug\BesinesEntitis.dll
+C:\Users\arman\Desktop\CRNFinalProject17\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\arman\Desktop\CRNFinalProject17\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\arman\Desktop\CRNFinalProject17\DataAccessLayer\bin\Debug\BesinesEntitis.pdb
+C:\Users\arman\Desktop\CRNFinalProject17\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\arman\Desktop\CRNFinalProject17\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\arman\Desktop\CRNFinalProject17\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\arman\Desktop\CRNFinalProject17\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.tables.resources
+C:\Users\arman\Desktop\CRNFinalProject17\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.FildeDeleteForReminder.resources
+C:\Users\arman\Desktop\CRNFinalProject17\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\arman\Desktop\CRNFinalProject17\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\arman\Desktop\CRNFinalProject17\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\arman\Desktop\CRNFinalProject17\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\arman\Desktop\CRNFinalProject17\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\arman\Desktop\CRNFinalProject17\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.RowNew.resources
+C:\Users\arman\Desktop\CRNFinalProject17\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.s.resources
+C:\Users\arman\Desktop\CRNFinalProject17\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.s1.resources
+C:\Users\arman\Desktop\CRNFinalProject26\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\arman\Desktop\CRNFinalProject26\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\arman\Desktop\CRNFinalProject26\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\arman\Desktop\CRNFinalProject26\DataAccessLayer\bin\Debug\BesinesEntitis.dll
+C:\Users\arman\Desktop\CRNFinalProject26\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\arman\Desktop\CRNFinalProject26\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\arman\Desktop\CRNFinalProject26\DataAccessLayer\bin\Debug\BesinesEntitis.pdb
+C:\Users\arman\Desktop\CRNFinalProject26\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\arman\Desktop\CRNFinalProject26\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\arman\Desktop\CRNFinalProject26\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\arman\Desktop\CRNFinalProject26\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.tables.resources
+C:\Users\arman\Desktop\CRNFinalProject26\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.FildeDeleteForReminder.resources
+C:\Users\arman\Desktop\CRNFinalProject26\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.RowNew.resources
+C:\Users\arman\Desktop\CRNFinalProject26\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.s.resources
+C:\Users\arman\Desktop\CRNFinalProject26\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.s1.resources
+C:\Users\arman\Desktop\CRNFinalProject26\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.DeleteStatus.resources
+C:\Users\arman\Desktop\CRNFinalProject26\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.DeleteStatusActivityCategory.resources
+C:\Users\arman\Desktop\CRNFinalProject26\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.RegDateForProducts.resources
+C:\Users\arman\Desktop\CRNFinalProject26\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.InvoiceForEnabledAudDeleteStatus.resources
+C:\Users\arman\Desktop\CRNFinalProject26\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.newUpdateIsCRM.resources
+C:\Users\arman\Desktop\CRNFinalProject26\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\arman\Desktop\CRNFinalProject26\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\arman\Desktop\CRNFinalProject26\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\arman\Desktop\CRNFinalProject26\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\arman\Desktop\CRNFinalProject26\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\arman\Desktop\CRNFinalProject\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\arman\Desktop\CRNFinalProject\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\arman\Desktop\CRNFinalProject\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\arman\Desktop\CRNFinalProject\DataAccessLayer\bin\Debug\BesinesEntitis.dll
+C:\Users\arman\Desktop\CRNFinalProject\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\arman\Desktop\CRNFinalProject\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\arman\Desktop\CRNFinalProject\DataAccessLayer\bin\Debug\BesinesEntitis.pdb
+C:\Users\arman\Desktop\CRNFinalProject\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\arman\Desktop\CRNFinalProject\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\arman\Desktop\CRNFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\arman\Desktop\CRNFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.tables.resources
+C:\Users\arman\Desktop\CRNFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.FildeDeleteForReminder.resources
+C:\Users\arman\Desktop\CRNFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.RowNew.resources
+C:\Users\arman\Desktop\CRNFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.s.resources
+C:\Users\arman\Desktop\CRNFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.s1.resources
+C:\Users\arman\Desktop\CRNFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.DeleteStatus.resources
+C:\Users\arman\Desktop\CRNFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.DeleteStatusActivityCategory.resources
+C:\Users\arman\Desktop\CRNFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.RegDateForProducts.resources
+C:\Users\arman\Desktop\CRNFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.InvoiceForEnabledAudDeleteStatus.resources
+C:\Users\arman\Desktop\CRNFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.newUpdateIsCRM.resources
+C:\Users\arman\Desktop\CRNFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\arman\Desktop\CRNFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\arman\Desktop\CRNFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\arman\Desktop\CRNFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\arman\Desktop\CRNFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\arman\Desktop\CRNFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.s2.resources
+C:\Users\arman\Desktop\CRNFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.sa.resources
+D:\CRNFinalProject\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\CRNFinalProject\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\CRNFinalProject\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\CRNFinalProject\DataAccessLayer\bin\Debug\BesinesEntitis.dll
+D:\CRNFinalProject\DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\CRNFinalProject\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CRNFinalProject\DataAccessLayer\bin\Debug\BesinesEntitis.pdb
+D:\CRNFinalProject\DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\CRNFinalProject\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CRNFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\CRNFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\CRNFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+D:\CRNFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\CRNFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\CRNFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.One.resources
+D:\CRNFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+E:\Term-Windows-1\CRMFinalProject\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+E:\Term-Windows-1\CRMFinalProject\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Term-Windows-1\CRMFinalProject\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Term-Windows-1\CRMFinalProject\DataAccessLayer\bin\Debug\BesinesEntitis.dll
+E:\Term-Windows-1\CRMFinalProject\DataAccessLayer\bin\Debug\EntityFramework.dll
+E:\Term-Windows-1\CRMFinalProject\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Term-Windows-1\CRMFinalProject\DataAccessLayer\bin\Debug\BesinesEntitis.pdb
+E:\Term-Windows-1\CRMFinalProject\DataAccessLayer\bin\Debug\EntityFramework.xml
+E:\Term-Windows-1\CRMFinalProject\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Term-Windows-1\CRMFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+E:\Term-Windows-1\CRMFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.One.resources
+E:\Term-Windows-1\CRMFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+E:\Term-Windows-1\CRMFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Term-Windows-1\CRMFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+E:\Term-Windows-1\CRMFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Term-Windows-1\CRMFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\DataAccessLayer\bin\Debug\BesinesEntitis.dll
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\DataAccessLayer\bin\Debug\BesinesEntitis.pdb
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.One.resources
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

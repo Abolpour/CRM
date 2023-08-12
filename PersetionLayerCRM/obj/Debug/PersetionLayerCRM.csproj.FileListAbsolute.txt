@@ -1,0 +1,486 @@
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\bin\Debug\PersetionLayerCRM.exe.config
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\bin\Debug\PersetionLayerCRM.exe
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\bin\Debug\PersetionLayerCRM.pdb
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\bin\Debug\DevComponents.DotNetBar2.dll
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\bin\Debug\EntityFramework.dll
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\bin\Debug\EntityFramework.SqlServer.dll
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\bin\Debug\HandyControl.dll
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\bin\Debug\DevComponents.DotNetBar2.xml
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\bin\Debug\EntityFramework.xml
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\bin\Debug\EntityFramework.SqlServer.xml
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\bin\Debug\HandyControl.pdb
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\bin\Debug\HandyControl.xml
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.AssemblyReference.cache
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.SuggestedBindingRedirects.cache
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\obj\Debug\MainWindow.g.cs
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\obj\Debug\UC_ClockMainWidow.g.cs
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\obj\Debug\App.g.cs
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\obj\Debug\PersetionLayerCRM_MarkupCompile.cache
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\obj\Debug\PersetionLayerCRM_MarkupCompile.lref
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\obj\Debug\App.baml
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\obj\Debug\MainWindow.baml
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\obj\Debug\UC_ClockMainWidow.baml
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.g.resources
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmActivitys.resources
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.FrmCustomer.resources
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmListInvoice.resources
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmProductManagment.resources
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.Properties.Resources.resources
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.GenerateResource.cache
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.CoreCompileInputs.cache
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.CopyComplete
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.exe
+E:\BackUpProjectCRM\CRNFinalProject8\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.pdb
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\bin\Debug\PersetionLayerCRM.exe.config
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\bin\Debug\PersetionLayerCRM.exe
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\bin\Debug\PersetionLayerCRM.pdb
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\bin\Debug\EntityFramework.dll
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\bin\Debug\HandyControl.dll
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\bin\Debug\EntityFramework.xml
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\bin\Debug\HandyControl.pdb
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\bin\Debug\HandyControl.xml
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.AssemblyReference.cache
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.SuggestedBindingRedirects.cache
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\obj\Debug\MainWindow.g.cs
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\obj\Debug\UC_ClockMainWidow.g.cs
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\obj\Debug\App.g.cs
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\obj\Debug\PersetionLayerCRM_MarkupCompile.cache
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\obj\Debug\PersetionLayerCRM_MarkupCompile.lref
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\obj\Debug\App.baml
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\obj\Debug\MainWindow.baml
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\obj\Debug\UC_ClockMainWidow.baml
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.g.resources
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmActivitys.resources
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.FrmCustomer.resources
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmListInvoice.resources
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmProductManagment.resources
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmReminders.resources
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.Properties.Resources.resources
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.GenerateResource.cache
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.CoreCompileInputs.cache
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.CopyComplete
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.exe
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.pdb
+C:\Users\arman\Desktop\CRNFinalProject8\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmSmsPanel.resources
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\bin\Debug\PersetionLayerCRM.exe.config
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\bin\Debug\PersetionLayerCRM.exe
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\bin\Debug\PersetionLayerCRM.pdb
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\bin\Debug\BesinesEntitis.dll
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\bin\Debug\BisnessLagicLayer.dll
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\bin\Debug\CRM_Utility.dll
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\bin\Debug\EntityFramework.dll
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\bin\Debug\HandyControl.dll
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\bin\Debug\DataAccessLayer.dll
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\bin\Debug\BesinesEntitis.pdb
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\bin\Debug\BisnessLagicLayer.pdb
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\bin\Debug\CRM_Utility.pdb
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\bin\Debug\EntityFramework.xml
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\bin\Debug\HandyControl.pdb
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\bin\Debug\HandyControl.xml
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\bin\Debug\DataAccessLayer.pdb
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\bin\Debug\DataAccessLayer.dll.config
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.AssemblyReference.cache
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.SuggestedBindingRedirects.cache
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\obj\Debug\MainWindow.g.cs
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\obj\Debug\UC_ClockMainWidow.g.cs
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\obj\Debug\App.g.cs
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\obj\Debug\PersetionLayerCRM_MarkupCompile.cache
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\obj\Debug\PersetionLayerCRM_MarkupCompile.lref
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\obj\Debug\App.baml
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\obj\Debug\MainWindow.baml
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\obj\Debug\UC_ClockMainWidow.baml
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.g.resources
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmActivitys.resources
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.FrmCustomer.resources
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmListInvoice.resources
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmProductManagment.resources
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmReminders.resources
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmSmsPanel.resources
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmUser.resources
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.Properties.Resources.resources
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.GenerateResource.cache
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.CoreCompileInputs.cache
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.CopyComplete
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.exe
+C:\Users\arman\Desktop\CRNFinalProject17\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.pdb
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\bin\Debug\PersetionLayerCRM.exe.config
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\bin\Debug\PersetionLayerCRM.exe
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\bin\Debug\PersetionLayerCRM.pdb
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\bin\Debug\BesinesEntitis.dll
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\bin\Debug\BisnessLagicLayer.dll
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\bin\Debug\CRM_Utility.dll
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\bin\Debug\EntityFramework.dll
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\bin\Debug\HandyControl.dll
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\bin\Debug\Stimulsoft.Report.dll
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\bin\Debug\DataAccessLayer.dll
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\bin\Debug\Stimulsoft.Base.dll
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\bin\Debug\Stimulsoft.Data.dll
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\bin\Debug\BesinesEntitis.pdb
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\bin\Debug\BisnessLagicLayer.pdb
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\bin\Debug\CRM_Utility.pdb
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\bin\Debug\EntityFramework.xml
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\bin\Debug\HandyControl.pdb
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\bin\Debug\HandyControl.xml
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\bin\Debug\DataAccessLayer.pdb
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\bin\Debug\DataAccessLayer.dll.config
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.AssemblyReference.cache
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.SuggestedBindingRedirects.cache
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\obj\Debug\MainWindow.g.cs
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\obj\Debug\UC_ClockMainWidow.g.cs
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\obj\Debug\App.g.cs
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\obj\Debug\PersetionLayerCRM_MarkupCompile.cache
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\obj\Debug\PersetionLayerCRM_MarkupCompile.lref
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\obj\Debug\App.baml
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\obj\Debug\MainWindow.baml
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\obj\Debug\UC_ClockMainWidow.baml
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.g.resources
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmActivitys.resources
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.FrmCustomer.resources
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmListInvoice.resources
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmLogin.resources
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmMsgBox.resources
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmProductManagment.resources
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmReminders.resources
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmSetting.resources
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmSmsPanel.resources
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmUser.resources
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.Properties.Resources.resources
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.UC_frmLogin.resources
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.UC_RegisterAdmin.resources
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.GenerateResource.cache
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.CoreCompileInputs.cache
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.CopyComplete
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.exe
+C:\Users\arman\Desktop\CRNFinalProject26\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.pdb
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\bin\Debug\PersetionLayerCRM.exe.config
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\bin\Debug\PersetionLayerCRM.exe
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\bin\Debug\PersetionLayerCRM.pdb
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\bin\Debug\BesinesEntitis.dll
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\bin\Debug\BisnessLagicLayer.dll
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\bin\Debug\CRM_Utility.dll
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\bin\Debug\EntityFramework.dll
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\bin\Debug\FoxLearn.License.dll
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\bin\Debug\HandyControl.dll
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\bin\Debug\Stimulsoft.Report.dll
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\bin\Debug\DataAccessLayer.dll
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\bin\Debug\Stimulsoft.Base.dll
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\bin\Debug\Stimulsoft.Data.dll
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\bin\Debug\BesinesEntitis.pdb
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\bin\Debug\BisnessLagicLayer.pdb
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\bin\Debug\CRM_Utility.pdb
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\bin\Debug\EntityFramework.xml
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\bin\Debug\HandyControl.pdb
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\bin\Debug\HandyControl.xml
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\bin\Debug\DataAccessLayer.pdb
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\bin\Debug\DataAccessLayer.dll.config
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.AssemblyReference.cache
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.SuggestedBindingRedirects.cache
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\obj\Debug\MainWindow.g.cs
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\obj\Debug\UC_ClockMainWidow.g.cs
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\obj\Debug\UC_Reminder.g.cs
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\obj\Debug\App.g.cs
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM_MarkupCompile.cache
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM_MarkupCompile.lref
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\obj\Debug\App.baml
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\obj\Debug\MainWindow.baml
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\obj\Debug\UC_ClockMainWidow.baml
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\obj\Debug\UC_Reminder.baml
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.g.resources
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmActivitys.resources
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.FrmCustomer.resources
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmListInvoice.resources
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmLogin.resources
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmMsgBox.resources
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmProductManagment.resources
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmReminders.resources
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmReport.resources
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmSetting.resources
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmSmsPanel.resources
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmUser.resources
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.Properties.Resources.resources
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.UC_frmLogin.resources
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.UC_RegisterAdmin.resources
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.GenerateResource.cache
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.CoreCompileInputs.cache
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.CopyComplete
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.exe
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.pdb
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\bin\Debug\DevComponents.DotNetBar.Charts.dll
+C:\Users\arman\Desktop\CRNFinalProject\PersetionLayerCRM\bin\Debug\XanderUI.dll
+D:\CRNFinalProject\PersetionLayerCRM\bin\Debug\PersetionLayerCRM.exe.config
+D:\CRNFinalProject\PersetionLayerCRM\bin\Debug\PersetionLayerCRM.exe
+D:\CRNFinalProject\PersetionLayerCRM\bin\Debug\PersetionLayerCRM.pdb
+D:\CRNFinalProject\PersetionLayerCRM\bin\Debug\BesinesEntitis.dll
+D:\CRNFinalProject\PersetionLayerCRM\bin\Debug\BisnessLagicLayer.dll
+D:\CRNFinalProject\PersetionLayerCRM\bin\Debug\CRM_Utility.dll
+D:\CRNFinalProject\PersetionLayerCRM\bin\Debug\EntityFramework.dll
+D:\CRNFinalProject\PersetionLayerCRM\bin\Debug\EntityFramework.SqlServer.dll
+D:\CRNFinalProject\PersetionLayerCRM\bin\Debug\HandyControl.dll
+D:\CRNFinalProject\PersetionLayerCRM\bin\Debug\Stimulsoft.Report.dll
+D:\CRNFinalProject\PersetionLayerCRM\bin\Debug\Stimulsoft.Report.Win.dll
+D:\CRNFinalProject\PersetionLayerCRM\bin\Debug\DataAccessLayer.dll
+D:\CRNFinalProject\PersetionLayerCRM\bin\Debug\Stimulsoft.Base.dll
+D:\CRNFinalProject\PersetionLayerCRM\bin\Debug\Stimulsoft.Data.dll
+D:\CRNFinalProject\PersetionLayerCRM\bin\Debug\Stimulsoft.Controls.Win.dll
+D:\CRNFinalProject\PersetionLayerCRM\bin\Debug\Stimulsoft.Controls.dll
+D:\CRNFinalProject\PersetionLayerCRM\bin\Debug\BesinesEntitis.pdb
+D:\CRNFinalProject\PersetionLayerCRM\bin\Debug\BisnessLagicLayer.pdb
+D:\CRNFinalProject\PersetionLayerCRM\bin\Debug\CRM_Utility.pdb
+D:\CRNFinalProject\PersetionLayerCRM\bin\Debug\EntityFramework.xml
+D:\CRNFinalProject\PersetionLayerCRM\bin\Debug\EntityFramework.SqlServer.xml
+D:\CRNFinalProject\PersetionLayerCRM\bin\Debug\HandyControl.pdb
+D:\CRNFinalProject\PersetionLayerCRM\bin\Debug\HandyControl.xml
+D:\CRNFinalProject\PersetionLayerCRM\bin\Debug\DataAccessLayer.pdb
+D:\CRNFinalProject\PersetionLayerCRM\bin\Debug\DataAccessLayer.dll.config
+D:\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.AssemblyReference.cache
+D:\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.SuggestedBindingRedirects.cache
+D:\CRNFinalProject\PersetionLayerCRM\obj\Debug\MainWindow.g.cs
+D:\CRNFinalProject\PersetionLayerCRM\obj\Debug\UC_ClockMainWidow.g.cs
+D:\CRNFinalProject\PersetionLayerCRM\obj\Debug\UC_Reminder.g.cs
+D:\CRNFinalProject\PersetionLayerCRM\obj\Debug\App.g.cs
+D:\CRNFinalProject\PersetionLayerCRM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM_MarkupCompile.cache
+D:\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM_MarkupCompile.lref
+D:\CRNFinalProject\PersetionLayerCRM\obj\Debug\App.baml
+D:\CRNFinalProject\PersetionLayerCRM\obj\Debug\MainWindow.baml
+D:\CRNFinalProject\PersetionLayerCRM\obj\Debug\UC_ClockMainWidow.baml
+D:\CRNFinalProject\PersetionLayerCRM\obj\Debug\UC_Reminder.baml
+D:\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.g.resources
+D:\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmActivitys.resources
+D:\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.FrmCustomer.resources
+D:\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmListInvoice.resources
+D:\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmLogin.resources
+D:\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmMsgBox.resources
+D:\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmProductManagment.resources
+D:\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmReminders.resources
+D:\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmReport.resources
+D:\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmSetting.resources
+D:\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmSmsPanel.resources
+D:\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmUser.resources
+D:\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.Properties.Resources.resources
+D:\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.UC_frmLogin.resources
+D:\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.UC_RegisterAdmin.resources
+D:\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.GenerateResource.cache
+D:\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.CoreCompileInputs.cache
+D:\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.CopyComplete
+D:\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.exe
+D:\CRNFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.pdb
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\bin\Debug\PersetionLayerCRM.exe.config
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\bin\Debug\PersetionLayerCRM.exe
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\bin\Debug\PersetionLayerCRM.pdb
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\bin\Debug\BesinesEntitis.dll
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\bin\Debug\BisnessLagicLayer.dll
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\bin\Debug\CRM_Utility.dll
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\bin\Debug\EntityFramework.dll
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\bin\Debug\EntityFramework.SqlServer.dll
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\bin\Debug\HandyControl.dll
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\bin\Debug\Stimulsoft.Report.dll
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\bin\Debug\Stimulsoft.Report.Win.dll
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\bin\Debug\DataAccessLayer.dll
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\bin\Debug\Stimulsoft.Base.dll
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\bin\Debug\Stimulsoft.Data.dll
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\bin\Debug\Stimulsoft.Controls.Win.dll
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\bin\Debug\Stimulsoft.Controls.dll
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\bin\Debug\BesinesEntitis.pdb
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\bin\Debug\BisnessLagicLayer.pdb
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\bin\Debug\CRM_Utility.pdb
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\bin\Debug\EntityFramework.xml
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\bin\Debug\EntityFramework.SqlServer.xml
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\bin\Debug\HandyControl.pdb
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\bin\Debug\HandyControl.xml
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\bin\Debug\DataAccessLayer.pdb
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\bin\Debug\DataAccessLayer.dll.config
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.AssemblyReference.cache
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.SuggestedBindingRedirects.cache
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\obj\Debug\MainWindow.g.cs
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\obj\Debug\UC_ClockMainWidow.g.cs
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\obj\Debug\UC_Reminder.g.cs
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\obj\Debug\App.g.cs
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM_MarkupCompile.cache
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM_MarkupCompile.lref
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\obj\Debug\App.baml
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\obj\Debug\MainWindow.baml
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\obj\Debug\UC_ClockMainWidow.baml
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\obj\Debug\UC_Reminder.baml
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.g.resources
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmActivitys.resources
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.FrmCustomer.resources
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmListInvoice.resources
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmLogin.resources
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmMsgBox.resources
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmProductManagment.resources
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmReminders.resources
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmReport.resources
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmSetting.resources
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmSmsPanel.resources
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmUser.resources
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.Properties.Resources.resources
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.UC_frmLogin.resources
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.UC_RegisterAdmin.resources
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.GenerateResource.cache
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.CoreCompileInputs.cache
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.CopyComplete
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.exe
+E:\Term-Windows-1\CRMFinalProject\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.pdb
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\PersetionLayerCRM.exe.config
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\PersetionLayerCRM.exe
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\PersetionLayerCRM.pdb
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\BesinesEntitis.dll
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\BisnessLagicLayer.dll
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\CRM_Utility.dll
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\DevComponents.DotNetBar.Charts.dll
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\EntityFramework.dll
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\HandyControl.dll
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\Stimulsoft.Report.dll
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\DataAccessLayer.dll
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\Stimulsoft.Base.dll
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\Stimulsoft.Data.dll
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\BesinesEntitis.pdb
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\BisnessLagicLayer.pdb
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\CRM_Utility.pdb
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\EntityFramework.xml
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\HandyControl.pdb
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\HandyControl.xml
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\DataAccessLayer.pdb
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\DataAccessLayer.dll.config
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csprojAssemblyReference.cache
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\MainWindow.g.cs
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\UC_ClockMainWidow.g.cs
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\UC_Reminder.g.cs
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\App.g.cs
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM_MarkupCompile.cache
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM_MarkupCompile.lref
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\App.baml
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\MainWindow.baml
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\UC_ClockMainWidow.baml
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\UC_Reminder.baml
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.g.resources
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmActivitys.resources
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.FrmCustomer.resources
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmListInvoice.resources
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmLogin.resources
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmMsgBox.resources
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmProductManagment.resources
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmReminders.resources
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmReport.resources
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmSetting.resources
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmSmsPanel.resources
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmUser.resources
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.Properties.Resources.resources
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.UC_frmLogin.resources
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.UC_RegisterAdmin.resources
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.GenerateResource.cache
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.CoreCompileInputs.cache
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.CopyComplete
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.exe
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.pdb
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\PersetionLayerCRM.exe.config
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\PersetionLayerCRM.exe
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\PersetionLayerCRM.pdb
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\BesinesEntitis.dll
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\BisnessLagicLayer.dll
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\CRM_Utility.dll
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\DevComponents.DotNetBar.Charts.dll
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\EntityFramework.dll
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\HandyControl.dll
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\Stimulsoft.Report.dll
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\DataAccessLayer.dll
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\Stimulsoft.Base.dll
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\Stimulsoft.Data.dll
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\BesinesEntitis.pdb
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\BisnessLagicLayer.pdb
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\CRM_Utility.pdb
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\EntityFramework.xml
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\HandyControl.pdb
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\HandyControl.xml
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\DataAccessLayer.pdb
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\bin\Debug\DataAccessLayer.dll.config
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csprojAssemblyReference.cache
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\MainWindow.g.cs
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\UC_ClockMainWidow.g.cs
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\UC_Reminder.g.cs
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\App.g.cs
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM_MarkupCompile.cache
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM_MarkupCompile.lref
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\App.baml
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\MainWindow.baml
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\UC_ClockMainWidow.baml
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\UC_Reminder.baml
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.g.resources
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmActivitys.resources
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.FrmCustomer.resources
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmListInvoice.resources
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmLogin.resources
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmMsgBox.resources
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmProductManagment.resources
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmReminders.resources
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmReport.resources
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmSetting.resources
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmSmsPanel.resources
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.frmUser.resources
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.Properties.Resources.resources
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.UC_frmLogin.resources
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.UC_RegisterAdmin.resources
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.GenerateResource.cache
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.CoreCompileInputs.cache
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.csproj.CopyComplete
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.exe
+C:\Users\hosein\Desktop\modhej C#\CRMFinalProject_پروژه نهایی ترم آخر\PersetionLayerCRM\obj\Debug\PersetionLayerCRM.pdb

@@ -1,0 +1,30 @@
+C:\Users\arman\Desktop\CRNFinalProject17\BesinesEntitis\bin\Debug\BesinesEntitis.dll
+C:\Users\arman\Desktop\CRNFinalProject17\BesinesEntitis\bin\Debug\BesinesEntitis.pdb
+C:\Users\arman\Desktop\CRNFinalProject17\BesinesEntitis\obj\Debug\BesinesEntitis.csproj.AssemblyReference.cache
+C:\Users\arman\Desktop\CRNFinalProject17\BesinesEntitis\obj\Debug\BesinesEntitis.csproj.CoreCompileInputs.cache
+C:\Users\arman\Desktop\CRNFinalProject17\BesinesEntitis\obj\Debug\BesinesEntitis.dll
+C:\Users\arman\Desktop\CRNFinalProject17\BesinesEntitis\obj\Debug\BesinesEntitis.pdb
+C:\Users\arman\Desktop\CRNFinalProject\BesinesEntitis\bin\Debug\BesinesEntitis.dll
+C:\Users\arman\Desktop\CRNFinalProject\BesinesEntitis\bin\Debug\BesinesEntitis.pdb
+C:\Users\arman\Desktop\CRNFinalProject\BesinesEntitis\obj\Debug\BesinesEntitis.csproj.AssemblyReference.cache
+C:\Users\arman\Desktop\CRNFinalProject\BesinesEntitis\obj\Debug\BesinesEntitis.csproj.CoreCompileInputs.cache
+C:\Users\arman\Desktop\CRNFinalProject\BesinesEntitis\obj\Debug\BesinesEntitis.dll
+C:\Users\arman\Desktop\CRNFinalProject\BesinesEntitis\obj\Debug\BesinesEntitis.pdb
+D:\CRNFinalProject\BesinesEntitis\bin\Debug\BesinesEntitis.dll
+D:\CRNFinalProject\BesinesEntitis\bin\Debug\BesinesEntitis.pdb
+D:\CRNFinalProject\BesinesEntitis\obj\Debug\BesinesEntitis.csproj.AssemblyReference.cache
+D:\CRNFinalProject\BesinesEntitis\obj\Debug\BesinesEntitis.csproj.CoreCompileInputs.cache
+D:\CRNFinalProject\BesinesEntitis\obj\Debug\BesinesEntitis.dll
+D:\CRNFinalProject\BesinesEntitis\obj\Debug\BesinesEntitis.pdb
+E:\Term-Windows-1\CRMFinalProject\BesinesEntitis\bin\Debug\BesinesEntitis.dll
+E:\Term-Windows-1\CRMFinalProject\BesinesEntitis\bin\Debug\BesinesEntitis.pdb
+E:\Term-Windows-1\CRMFinalProject\BesinesEntitis\obj\Debug\BesinesEntitis.csproj.AssemblyReference.cache
+E:\Term-Windows-1\CRMFinalProject\BesinesEntitis\obj\Debug\BesinesEntitis.csproj.CoreCompileInputs.cache
+E:\Term-Windows-1\CRMFinalProject\BesinesEntitis\obj\Debug\BesinesEntitis.dll
+E:\Term-Windows-1\CRMFinalProject\BesinesEntitis\obj\Debug\BesinesEntitis.pdb
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\BesinesEntitis\bin\Debug\BesinesEntitis.dll
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\BesinesEntitis\bin\Debug\BesinesEntitis.pdb
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\BesinesEntitis\obj\Debug\BesinesEntitis.csprojAssemblyReference.cache
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\BesinesEntitis\obj\Debug\BesinesEntitis.csproj.CoreCompileInputs.cache
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\BesinesEntitis\obj\Debug\BesinesEntitis.dll
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\BesinesEntitis\obj\Debug\BesinesEntitis.pdb

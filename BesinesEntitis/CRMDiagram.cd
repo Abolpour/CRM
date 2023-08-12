@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BesinesEntitis.Activity" Collapsed="true">
+    <Position X="8.5" Y="3.75" Width="1.5" />
+    <AssociationLine Name="User" Type="BesinesEntitis.User" ManuallyRouted="true">
+      <Path>
+        <Point X="8.906" Y="3.75" />
+        <Point X="8.906" Y="3.475" />
+        <Point X="10.303" Y="3.475" Type="JumpStart" />
+        <Point X="10.469" Y="3.475" Type="JumpEnd" />
+        <Point X="11.534" Y="3.475" />
+        <Point X="11.534" Y="2.087" />
+        <Point X="8.906" Y="2.087" />
+        <Point X="8.906" Y="1.812" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAEBAAAAAAAAAEAAAAAAAAAAAAAAAAAAARAAAGAAAgA=</HashCode>
+      <FileName>Activity.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Customer" />
+      <Property Name="User" />
+      <Property Name="ActivityCategory" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="BesinesEntitis.ActivityCategory" Collapsed="true">
+    <Position X="6.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAACAAAAAAABAAAEAAAAA=</HashCode>
+      <FileName>ActivityCategory.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Activitys" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="BesinesEntitis.Customer" Collapsed="true">
+    <Position X="8.75" Y="6.5" Width="1.5" />
+    <AssociationLine Name="Invoices" Type="BesinesEntitis.Invoice" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="8.75" Y="6.562" />
+        <Point X="8.638" Y="6.562" />
+        <Point X="8.638" Y="6.552" />
+        <Point X="8.41" Y="6.552" />
+        <Point X="8.41" Y="6.312" />
+        <Point X="4.125" Y="6.312" />
+        <Point X="4.125" Y="3.062" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAABAAIKAAAgA=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Invoices" />
+      <Property Name="Activities" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="BesinesEntitis.Invoice" Collapsed="true">
+    <Position X="3.5" Y="2.5" Width="1.5" />
+    <AssociationLine Name="Customer" Type="BesinesEntitis.Customer" ManuallyRouted="true">
+      <Path>
+        <Point X="3.781" Y="3.062" />
+        <Point X="3.781" Y="6.885" />
+        <Point X="8.75" Y="6.885" />
+        <Point X="8.75" Y="6.719" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAEBAAAAAAAAAAAAAgAAAAAAAAAAAEAAgBAAACAAAgQ=</HashCode>
+      <FileName>Invoice.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Customer" />
+      <Property Name="User" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="Products" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="BesinesEntitis.Reminder" Collapsed="true">
+    <Position X="11.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAEBAAAAAAAAAAAAAAIAAABAAACAAAgA=</HashCode>
+      <FileName>Reminder.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Users" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="BesinesEntitis.Product">
+    <Position X="1" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAQAAAAAAAAAAAAQAgAAAAAAAABAAACAAAgA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Invoices" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="BesinesEntitis.User" Collapsed="true">
+    <Position X="7.75" Y="1.25" Width="1.5" />
+    <AssociationLine Name="Activities" Type="BesinesEntitis.Activity" ManuallyRouted="true">
+      <Path>
+        <Point X="8.672" Y="1.812" />
+        <Point X="8.672" Y="2.451" />
+        <Point X="11.112" Y="2.451" />
+        <Point X="11.112" Y="3.11" />
+        <Point X="10.469" Y="3.11" Type="JumpStart" />
+        <Point X="10.303" Y="3.11" Type="JumpEnd" />
+        <Point X="8.672" Y="3.11" />
+        <Point X="8.672" Y="3.75" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="Reminders" Type="BesinesEntitis.Reminder" ManuallyRouted="true">
+      <Path>
+        <Point X="8.125" Y="1.812" />
+        <Point X="8.125" Y="2.849" />
+        <Point X="10.386" Y="2.849" />
+        <Point X="10.386" Y="4.859" />
+        <Point X="11.5" Y="4.859" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="Invoices" Type="BesinesEntitis.Invoice" ManuallyRouted="true">
+      <Path>
+        <Point X="7.75" Y="1.395" />
+        <Point X="5.137" Y="1.395" Type="JumpStart" />
+        <Point X="4.97" Y="1.395" Type="JumpEnd" />
+        <Point X="4.607" Y="1.395" />
+        <Point X="4.607" Y="2.5" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAgIAEAIAAAAAAAAAAAAQAAAAAAAACARAAAKAAAgA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="UserGroup" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="Activities" />
+      <Property Name="Reminders" />
+      <Property Name="Invoices" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="BesinesEntitis.UserAccessRole" Collapsed="true">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAABAAIAAAAAAAAAAAAAAAEAAAAAAAAABAIAAAgA=</HashCode>
+      <FileName>UserAccessRole.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="UserGroup" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="BesinesEntitis.UserGroup" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAgAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>UserGroup.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Users" />
+      <Property Name="UserAccessRoles" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

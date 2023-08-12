@@ -1,0 +1,84 @@
+C:\Users\arman\Desktop\CRNFinalProject17\BisnessLagicLayer\bin\Debug\BisnessLagicLayer.dll
+C:\Users\arman\Desktop\CRNFinalProject17\BisnessLagicLayer\bin\Debug\BisnessLagicLayer.pdb
+C:\Users\arman\Desktop\CRNFinalProject17\BisnessLagicLayer\bin\Debug\BesinesEntitis.dll
+C:\Users\arman\Desktop\CRNFinalProject17\BisnessLagicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\arman\Desktop\CRNFinalProject17\BisnessLagicLayer\bin\Debug\EntityFramework.dll
+C:\Users\arman\Desktop\CRNFinalProject17\BisnessLagicLayer\bin\Debug\BesinesEntitis.pdb
+C:\Users\arman\Desktop\CRNFinalProject17\BisnessLagicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\arman\Desktop\CRNFinalProject17\BisnessLagicLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\arman\Desktop\CRNFinalProject17\BisnessLagicLayer\bin\Debug\EntityFramework.xml
+C:\Users\arman\Desktop\CRNFinalProject17\BisnessLagicLayer\obj\Debug\BisnessLagicLayer.csproj.AssemblyReference.cache
+C:\Users\arman\Desktop\CRNFinalProject17\BisnessLagicLayer\obj\Debug\BisnessLagicLayer.csproj.CoreCompileInputs.cache
+C:\Users\arman\Desktop\CRNFinalProject17\BisnessLagicLayer\obj\Debug\BisnessLagicLayer.csproj.CopyComplete
+C:\Users\arman\Desktop\CRNFinalProject17\BisnessLagicLayer\obj\Debug\BisnessLagicLayer.dll
+C:\Users\arman\Desktop\CRNFinalProject17\BisnessLagicLayer\obj\Debug\BisnessLagicLayer.pdb
+C:\Users\arman\Desktop\CRNFinalProject26\BisnessLagicLayer\bin\Debug\BisnessLagicLayer.dll
+C:\Users\arman\Desktop\CRNFinalProject26\BisnessLagicLayer\bin\Debug\BisnessLagicLayer.pdb
+C:\Users\arman\Desktop\CRNFinalProject26\BisnessLagicLayer\bin\Debug\BesinesEntitis.dll
+C:\Users\arman\Desktop\CRNFinalProject26\BisnessLagicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\arman\Desktop\CRNFinalProject26\BisnessLagicLayer\bin\Debug\EntityFramework.dll
+C:\Users\arman\Desktop\CRNFinalProject26\BisnessLagicLayer\bin\Debug\BesinesEntitis.pdb
+C:\Users\arman\Desktop\CRNFinalProject26\BisnessLagicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\arman\Desktop\CRNFinalProject26\BisnessLagicLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\arman\Desktop\CRNFinalProject26\BisnessLagicLayer\bin\Debug\EntityFramework.xml
+C:\Users\arman\Desktop\CRNFinalProject26\BisnessLagicLayer\obj\Debug\BisnessLagicLayer.csproj.AssemblyReference.cache
+C:\Users\arman\Desktop\CRNFinalProject26\BisnessLagicLayer\obj\Debug\BisnessLagicLayer.csproj.CoreCompileInputs.cache
+C:\Users\arman\Desktop\CRNFinalProject26\BisnessLagicLayer\obj\Debug\BisnessLagicLayer.csproj.CopyComplete
+C:\Users\arman\Desktop\CRNFinalProject26\BisnessLagicLayer\obj\Debug\BisnessLagicLayer.dll
+C:\Users\arman\Desktop\CRNFinalProject26\BisnessLagicLayer\obj\Debug\BisnessLagicLayer.pdb
+C:\Users\arman\Desktop\CRNFinalProject\BisnessLagicLayer\bin\Debug\BisnessLagicLayer.dll
+C:\Users\arman\Desktop\CRNFinalProject\BisnessLagicLayer\bin\Debug\BisnessLagicLayer.pdb
+C:\Users\arman\Desktop\CRNFinalProject\BisnessLagicLayer\bin\Debug\BesinesEntitis.dll
+C:\Users\arman\Desktop\CRNFinalProject\BisnessLagicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\arman\Desktop\CRNFinalProject\BisnessLagicLayer\bin\Debug\EntityFramework.dll
+C:\Users\arman\Desktop\CRNFinalProject\BisnessLagicLayer\bin\Debug\BesinesEntitis.pdb
+C:\Users\arman\Desktop\CRNFinalProject\BisnessLagicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\arman\Desktop\CRNFinalProject\BisnessLagicLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\arman\Desktop\CRNFinalProject\BisnessLagicLayer\bin\Debug\EntityFramework.xml
+C:\Users\arman\Desktop\CRNFinalProject\BisnessLagicLayer\obj\Debug\BisnessLagicLayer.csproj.AssemblyReference.cache
+C:\Users\arman\Desktop\CRNFinalProject\BisnessLagicLayer\obj\Debug\BisnessLagicLayer.csproj.CoreCompileInputs.cache
+C:\Users\arman\Desktop\CRNFinalProject\BisnessLagicLayer\obj\Debug\BisnessLagicLayer.csproj.CopyComplete
+C:\Users\arman\Desktop\CRNFinalProject\BisnessLagicLayer\obj\Debug\BisnessLagicLayer.dll
+C:\Users\arman\Desktop\CRNFinalProject\BisnessLagicLayer\obj\Debug\BisnessLagicLayer.pdb
+D:\CRNFinalProject\BisnessLagicLayer\bin\Debug\BisnessLagicLayer.dll
+D:\CRNFinalProject\BisnessLagicLayer\bin\Debug\BisnessLagicLayer.pdb
+D:\CRNFinalProject\BisnessLagicLayer\bin\Debug\BesinesEntitis.dll
+D:\CRNFinalProject\BisnessLagicLayer\bin\Debug\DataAccessLayer.dll
+D:\CRNFinalProject\BisnessLagicLayer\bin\Debug\EntityFramework.dll
+D:\CRNFinalProject\BisnessLagicLayer\bin\Debug\BesinesEntitis.pdb
+D:\CRNFinalProject\BisnessLagicLayer\bin\Debug\DataAccessLayer.pdb
+D:\CRNFinalProject\BisnessLagicLayer\bin\Debug\DataAccessLayer.dll.config
+D:\CRNFinalProject\BisnessLagicLayer\bin\Debug\EntityFramework.xml
+D:\CRNFinalProject\BisnessLagicLayer\obj\Debug\BisnessLagicLayer.csproj.AssemblyReference.cache
+D:\CRNFinalProject\BisnessLagicLayer\obj\Debug\BisnessLagicLayer.csproj.CoreCompileInputs.cache
+D:\CRNFinalProject\BisnessLagicLayer\obj\Debug\BisnessLagicLayer.csproj.CopyComplete
+D:\CRNFinalProject\BisnessLagicLayer\obj\Debug\BisnessLagicLayer.dll
+D:\CRNFinalProject\BisnessLagicLayer\obj\Debug\BisnessLagicLayer.pdb
+E:\Term-Windows-1\CRMFinalProject\BisnessLagicLayer\bin\Debug\BisnessLagicLayer.dll
+E:\Term-Windows-1\CRMFinalProject\BisnessLagicLayer\bin\Debug\BisnessLagicLayer.pdb
+E:\Term-Windows-1\CRMFinalProject\BisnessLagicLayer\bin\Debug\BesinesEntitis.dll
+E:\Term-Windows-1\CRMFinalProject\BisnessLagicLayer\bin\Debug\DataAccessLayer.dll
+E:\Term-Windows-1\CRMFinalProject\BisnessLagicLayer\bin\Debug\EntityFramework.dll
+E:\Term-Windows-1\CRMFinalProject\BisnessLagicLayer\bin\Debug\BesinesEntitis.pdb
+E:\Term-Windows-1\CRMFinalProject\BisnessLagicLayer\bin\Debug\DataAccessLayer.pdb
+E:\Term-Windows-1\CRMFinalProject\BisnessLagicLayer\bin\Debug\DataAccessLayer.dll.config
+E:\Term-Windows-1\CRMFinalProject\BisnessLagicLayer\bin\Debug\EntityFramework.xml
+E:\Term-Windows-1\CRMFinalProject\BisnessLagicLayer\obj\Debug\BisnessLagicLayer.csproj.AssemblyReference.cache
+E:\Term-Windows-1\CRMFinalProject\BisnessLagicLayer\obj\Debug\BisnessLagicLayer.csproj.CoreCompileInputs.cache
+E:\Term-Windows-1\CRMFinalProject\BisnessLagicLayer\obj\Debug\BisnessLagicLayer.csproj.CopyComplete
+E:\Term-Windows-1\CRMFinalProject\BisnessLagicLayer\obj\Debug\BisnessLagicLayer.dll
+E:\Term-Windows-1\CRMFinalProject\BisnessLagicLayer\obj\Debug\BisnessLagicLayer.pdb
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\BisnessLagicLayer\bin\Debug\BisnessLagicLayer.dll
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\BisnessLagicLayer\bin\Debug\BisnessLagicLayer.pdb
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\BisnessLagicLayer\bin\Debug\BesinesEntitis.dll
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\BisnessLagicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\BisnessLagicLayer\bin\Debug\EntityFramework.dll
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\BisnessLagicLayer\bin\Debug\BesinesEntitis.pdb
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\BisnessLagicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\BisnessLagicLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\BisnessLagicLayer\bin\Debug\EntityFramework.xml
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\BisnessLagicLayer\obj\Debug\BisnessLagicLayer.csprojAssemblyReference.cache
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\BisnessLagicLayer\obj\Debug\BisnessLagicLayer.csproj.CoreCompileInputs.cache
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\BisnessLagicLayer\obj\Debug\BisnessLagicLayer.csproj.CopyComplete
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\BisnessLagicLayer\obj\Debug\BisnessLagicLayer.dll
+C:\Users\hosein\Desktop\modhej\CRMFinalProject_پروژه نهایی ترم آخر\BisnessLagicLayer\obj\Debug\BisnessLagicLayer.pdb
